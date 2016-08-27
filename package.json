@@ -1,0 +1,22 @@
+{
+  "name": "getting-started-with-redux",
+  "version": "0.0.1",
+  "description": "Following Dan Abramov's 'Getting Started With Redux' course, available on Egghead.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jessicace/getting-started-with-redux.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Jessica Claire Edwards",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jessicace/getting-started-with-redux/issues"
+  },
+  "homepage": "https://github.com/jessicace/getting-started-with-redux#readme"
+}
